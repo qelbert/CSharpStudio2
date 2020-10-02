@@ -1,0 +1,13 @@
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt3\CharacterCountStudio\CharacterCountStudio\bin\Debug\netcoreapp3.1\CharacterCountStudio.exe
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt3\CharacterCountStudio\CharacterCountStudio\bin\Debug\netcoreapp3.1\CharacterCountStudio.deps.json
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt3\CharacterCountStudio\CharacterCountStudio\bin\Debug\netcoreapp3.1\CharacterCountStudio.runtimeconfig.json
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt3\CharacterCountStudio\CharacterCountStudio\bin\Debug\netcoreapp3.1\CharacterCountStudio.runtimeconfig.dev.json
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt3\CharacterCountStudio\CharacterCountStudio\bin\Debug\netcoreapp3.1\CharacterCountStudio.dll
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt3\CharacterCountStudio\CharacterCountStudio\bin\Debug\netcoreapp3.1\CharacterCountStudio.pdb
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt3\CharacterCountStudio\CharacterCountStudio\obj\Debug\netcoreapp3.1\CharacterCountStudio.csprojAssemblyReference.cache
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt3\CharacterCountStudio\CharacterCountStudio\obj\Debug\netcoreapp3.1\CharacterCountStudio.AssemblyInfoInputs.cache
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt3\CharacterCountStudio\CharacterCountStudio\obj\Debug\netcoreapp3.1\CharacterCountStudio.AssemblyInfo.cs
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt3\CharacterCountStudio\CharacterCountStudio\obj\Debug\netcoreapp3.1\CharacterCountStudio.csproj.CoreCompileInputs.cache
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt3\CharacterCountStudio\CharacterCountStudio\obj\Debug\netcoreapp3.1\CharacterCountStudio.dll
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt3\CharacterCountStudio\CharacterCountStudio\obj\Debug\netcoreapp3.1\CharacterCountStudio.pdb
+C:\Users\elber\Desktop\LC101\C#\1-practice\chpt3\CharacterCountStudio\CharacterCountStudio\obj\Debug\netcoreapp3.1\CharacterCountStudio.genruntimeconfig.cache
